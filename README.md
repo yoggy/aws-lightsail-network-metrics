@@ -2,6 +2,10 @@
 
 ## Usage
 ```
+$ pip3 install awscli
+$ export PATH=~/.local/bin:$PATH
+$ aws configure
+
 $ cd ~/work/
 $ git clone git@github.com:yoggy/aws-lightsail-network-metrics.git
 $ cd aws-lightsail-network-metrics
