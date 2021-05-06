@@ -2,7 +2,8 @@
 
 ## Usage
 ```
-$ git clone https://...
+$ cd ~/work/
+$ git clone git@github.com:yoggy/aws-lightsail-network-metrics.git
 $ cd aws-lightsail-network-metrics
 $ pip install boto3
 
